@@ -1,2 +1,1 @@
-# OpenCV
-Open CV Codebase
+# OpenCVDeepLearningCertification
